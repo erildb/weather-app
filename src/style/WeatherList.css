@@ -1,0 +1,46 @@
+td,
+th,
+tr {
+  /* vertical-align: middle !important; */
+  text-align: center !important;
+  width: 170px;
+}
+
+.tbl > td {
+  vertical-align: middle !important;
+  cursor: pointer;
+}
+
+.backlink {
+  margin: 10px;
+}
+
+.input-group {
+  margin: 20px 0px;
+  display: flex !important;
+}
+
+svg {
+  height: 150px;
+}
+
+td:first-of-type > div {
+  height: 630px;
+  width: 830px;
+}
+
+td > img {
+  height: 80px;
+  width: 80px;
+}
+
+body {
+  background-image: url("background.jpg");
+}
+
+.container {
+  background-color: white;
+  margin-top: 20px;
+  padding-top: 1px;
+  border-radius: 10px;
+}
