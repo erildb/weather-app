@@ -77,6 +77,7 @@ class WeatherList extends Component {
               <th>Weather</th>
               <th>Temperature (°C)</th>
               <th>Sunrise / Sunset</th>
+              <th></th>
             </tr>
           </thead>
           <tbody>{this.renderWeather()}</tbody>
