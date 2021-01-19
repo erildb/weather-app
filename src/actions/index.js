@@ -1,8 +1,8 @@
 import axios from "axios";
 
 const API_KEY = "e2437c7b08684aeba5b365ff285ad995";
-const WEATHER_URL = `http://api.openweathermap.org/data/2.5/weather?appid=${API_KEY}`;
-const FORECAST_URL = `http://api.openweathermap.org/data/2.5/forecast?appid=${API_KEY}`;
+const WEATHER_URL = `https://api.openweathermap.org/data/2.5/weather?appid=${API_KEY}`;
+const FORECAST_URL = `https://api.openweathermap.org/data/2.5/forecast?appid=${API_KEY}`;
 
 export const FETCH_WEATHER = "FETCH_WEATHER";
 export const DELETE_WEATHER = "DELETE_WEATHER";
