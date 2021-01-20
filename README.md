@@ -1,4 +1,4 @@
-Website URL: https://focused-newton-75f82c.netlify.app/
+Website URL: https://weather-forecast-react-redux.netlify.app/
 
 # Getting Started with Create React App
 
